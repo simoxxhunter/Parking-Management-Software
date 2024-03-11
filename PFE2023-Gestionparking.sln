@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PFE2023-Gestionparking", "PFE2023-Gestionparking\PFE2023-Gestionparking.vbproj", "{BB004B46-BA9E-438F-94E7-2C00ECAE75C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB004B46-BA9E-438F-94E7-2C00ECAE75C6}.Debug|x86.ActiveCfg = Debug|x86
+		{BB004B46-BA9E-438F-94E7-2C00ECAE75C6}.Debug|x86.Build.0 = Debug|x86
+		{BB004B46-BA9E-438F-94E7-2C00ECAE75C6}.Release|x86.ActiveCfg = Release|x86
+		{BB004B46-BA9E-438F-94E7-2C00ECAE75C6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
